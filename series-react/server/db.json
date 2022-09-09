@@ -1,0 +1,10 @@
+{
+    "config": [
+        { "id": 0, "icon": "fa fa-google", "url": "https://www.google.com"},
+        { "id": 1, "icon": "fa fa-windows", "url": "https://www.microsoft.com"},
+        { "id": 2, "icon": "fa fa-git", "url": "https://github.com/"},
+        { "id": 3, "icon": "fa fa-linkedin", "url": "https://www.linkedin.com"},
+        { "id": 4, "icon": "fa fa-cog", "url": "https://support.google.com/accounts/answer/3118621?hl=it"},
+        { "id": 5, "icon": "fa fa-envelope", "url": "https://www.gmail.com"}
+    ]
+}
